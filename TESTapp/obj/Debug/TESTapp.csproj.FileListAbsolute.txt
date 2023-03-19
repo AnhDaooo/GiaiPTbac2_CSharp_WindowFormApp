@@ -1,0 +1,11 @@
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\bin\Debug\TESTapp.exe.config
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\bin\Debug\TESTapp.exe
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\bin\Debug\TESTapp.pdb
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.csproj.AssemblyReference.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.Properties.Resources.resources
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.csproj.GenerateResource.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.csproj.CoreCompileInputs.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.exe
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.pdb
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\TESTapp\TESTapp\obj\Debug\TESTapp.formMain.resources
